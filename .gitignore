@@ -7,7 +7,7 @@ __pycache__/
 
 # PyInstaller build artifacts
 build/
-dist/
+# dist/
 
 # OS-generated files
 .DS_Store
